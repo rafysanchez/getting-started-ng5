@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyB03gB1YEqYTBpwnjOFOYUmhapdp3nOTMc",
-    authDomain: "blog-5828c.firebaseapp.com",
-    databaseURL: "https://blog-5828c.firebaseio.com",
-    projectId: "blog-5828c",
-    storageBucket: "",
-    messagingSenderId: "300726861158"
+    apiKey: 'AIzaSyBAhs97PsaoIINcQpDbfpU5LqLHy94EWM8',
+    authDomain: 'ng5-project-80b97.firebaseapp.com',
+    databaseURL: 'https://ng5-project-80b97.firebaseio.com',
+    projectId: 'ng5-project-80b97',
+    storageBucket: 'ng5-project-80b97.appspot.com',
+    messagingSenderId: '683105575569'
   }
 };
